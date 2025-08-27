@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Colab
+*.colab
+
+# VS Code settings
+.vscode/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Python virtual environments
+venv/
+.env/
+.venv/
+
+# Logs
+*.log
+
+# Miscellaneous
+*.swp
+*.swo
